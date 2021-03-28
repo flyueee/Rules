@@ -1,11 +1,5 @@
 ## > 小红书-ads
-# NAME: xiaohongshu
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-02-04 02:52:54
-# HOST-SUFFIX: 4
-# TOTAL: 4
-DOMAIN-SUFFIX,apm-track.xiaohongshu.com
-DOMAIN-SUFFIX,t-ads.xiaohongshu.com
-DOMAIN-SUFFIX,ads-img-qc.xhscdn.com
-DOMAIN-SUFFIX,ads-video-qc.xhscdn.com
+DOMAIN-SUFFIX,apm-track.xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,t-ads.xiaohongshu.com,REJECT
+DOMAIN-SUFFIX,ads-img-qc.xhscdn.com,REJECT
+DOMAIN-SUFFIX,ads-video-qc.xhscdn.com,REJECT
