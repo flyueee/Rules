@@ -1,7 +1,0 @@
-# NAME: GaoDe
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-29 02:28:31.798525
-# HOST-SUFFIX: 9
-# TOTAL: 9
-HOST-SUFFIX,amapauto.com,REJECT
