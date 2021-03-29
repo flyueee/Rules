@@ -5,5 +5,3 @@
 # HOST-SUFFIX: 9
 # TOTAL: 9
 HOST-SUFFIX,amapauto.com,REJECT
-HOST-SUFFIX,anav.com,REJECT
-HOST-SUFFIX,autonavi.com,REJECT
